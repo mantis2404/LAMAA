@@ -93,8 +93,6 @@ Want to contribute? Awesome! You can:
 
 - Improve agent accuracy and reliability
 
---- 
-
 - Implement safety layers (sandboxing, approval prompts)
 
 - Submit bug fixes and optimizations
